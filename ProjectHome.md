@@ -1,0 +1,1 @@
+This Drupal module will allow you to pull data from an existing eqdkp installation and display DKP stats directly in your Drupal setup. Currently this version is very beta, and there are no options. Your EQDKP installation needs to be in the same database as Drupal, and needs to have ‘eqdkp\_’ in front of all table names.
